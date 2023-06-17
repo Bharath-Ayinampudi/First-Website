@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Bharath-Ayinampudi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me bharathchoudary33@gmail.com
+  This is my first webpage created while learning web development
 
 <!---
 Bharath-Ayinampudi/Bharath-Ayinampudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
